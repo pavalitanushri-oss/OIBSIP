@@ -16,8 +16,8 @@ Car price prediction using machine learning techniques.
 ### Task 4 – Sentiment Analysis
 Sentiment analysis of textual data using Python and Natural Language Processing.
 
-### Task 5 – Fraud Detection
-Fraud detection using machine learning techniques.
+### Task 5 – Autocomplete & Autocorrect
+Autocomplete and autocorrect system using Natural Language Processing (NLP) techniques.
 
 ### Task 6 – House Price Prediction
 House price prediction using Linear Regression.
