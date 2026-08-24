@@ -13,8 +13,8 @@ Customer segmentation using data analysis and clustering techniques.
 ### Task 3 – Car Price Prediction
 Car price prediction using machine learning techniques.
 
-### Task 4 – Sentiment Analysis
-Sentiment analysis of textual data using Python and Natural Language Processing.
+### Task 4 – Unveiling the Android App Market (Google Play Store Analysis)
+Analyzed Google Play Store apps to understand app categories, ratings, installs, pricing, estimated revenue, and user review sentiment using Python, Pandas, Matplotlib, Seaborn, and TextBlob.
 
 ### Task 5 – Autocomplete & Autocorrect
 Autocomplete and autocorrect system using Natural Language Processing (NLP) techniques.
